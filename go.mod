@@ -15,5 +15,6 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/olivere/elastic v6.2.26+incompatible
 	github.com/olivere/elastic/v7 v7.0.32
+	github.com/mattn/go-ieproxy v0.0.1 // indirect
 	gopkg.in/olivere/elastic.v6 v6.2.37
 )
